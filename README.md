@@ -4,7 +4,7 @@
 
 ## Flutter aficionado with a knack for crafting elegant and efficient UIs
 
-📱 Flutter Mobile App Developer
+📱 Mobile App Developer
 
 ✨ Over 8 years crafting high-performance apps
 
