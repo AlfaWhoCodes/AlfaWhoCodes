@@ -10,7 +10,7 @@
 
 🌐 Proficient in .NET, SQL, Flutter, Node.js, and Dart
 
-🚀 Mentor to 100+ students in Flutter development
+🚀 Mentor to 100+ students in Software development
 
 
 ## 🔗 Links
