@@ -16,7 +16,7 @@
 ## 🔗 Links
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfawhocodes)
-[![Personal Instagram](https://img.shields.io/badge/Personal%20Instagram-E7405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/creative_alf)
+[![Personal Instagram](https://img.shields.io/badge/Personal%20Instagram-E7405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sheikmohammedalfaz)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@alfawhocodes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-alfaz)
 
