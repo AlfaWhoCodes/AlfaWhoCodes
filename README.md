@@ -3,7 +3,7 @@
 ![AlfaWhoCodes](https://img.shields.io/badge/AlfaWhoCodes-000000?style=for-the-badge&logo=github&logoColor=white)
 
 # Mohammed Alfaz 👋  
-### Senior Software Engineer • Flutter Specialist • Full Stack Developer • Tech Lead  
+### Software Engineer • Flutter Specialist • Full Stack Developer • Tech Lead  
 
 > Crafting scalable products • Building global SaaS • Designing elegant UIs  
 
@@ -18,7 +18,7 @@
 
 ## ✨ About Me
 
-I’m a **Senior Software Engineer & Technical Lead** with **8+ years of experience** building high-performance mobile and web products.
+I’m a ** Software Engineer & Technical Lead** with **8+ years of experience** building high-performance mobile and web products.
 
 I specialize in **Flutter, frontend architecture, and full-stack systems**, with a strong focus on **scalability, maintainability, and exceptional UX**.
 
