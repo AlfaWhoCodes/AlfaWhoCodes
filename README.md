@@ -3,7 +3,7 @@
 ![AlfaWhoCodes](https://img.shields.io/badge/AlfaWhoCodes-000000?style=for-the-badge&logo=github&logoColor=white)
 
 # Mohammed Alfaz 👋  
-### Software Engineer • Flutter Specialist • Full Stack Developer • Tech Lead  
+### Software Engineer • Flutter Specialist • Mobile App & Full Stack Developer • Tech Lead  
 
 > Crafting scalable products • Building global SaaS • Designing elegant UIs  
 
