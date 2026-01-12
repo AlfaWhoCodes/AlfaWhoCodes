@@ -17,7 +17,7 @@
 
 ## ✨ About Me
 
-I’m a ** Software Engineer & Technical Lead** with **8+ years of experience** building high-performance mobile and web products.
+I’m a **Software Engineer & Technical Lead** with **8+ years of experience** building high-performance mobile and web products.
 
 I specialize in **Flutter, frontend architecture, and full-stack systems**, with a strong focus on **scalability, maintainability, and exceptional UX**.
 
@@ -58,10 +58,10 @@ From **startups to enterprise platforms**, healthcare to fintech, logistics to A
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ### 🧰 Tools & Workflow
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-0ACF83?style=for-the-badge&logo=figma)
+![GitHub](https://img.shields.io/badge/GitHub-181317?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FC3D26?style=for-the-badge&logo=gitlab)
+![Postman](https://img.shields.io/badge/Postman-F56C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-0AC483?style=for-the-badge&logo=figma)
 
 ---
 
